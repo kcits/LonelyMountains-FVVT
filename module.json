@@ -1,7 +1,12 @@
 {
     "name": "lonely-mountains",
     "title": "Lonely Mountains",
-    "author": "Kcits",
+    "authors": [
+      {
+        "name": "Kcits",
+        "url": "https://github.com/kcits"
+      }
+      ],
     "description": "Shared Module For Lonely Mountains",
     "packs": [
         {
