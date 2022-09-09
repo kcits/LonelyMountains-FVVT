@@ -103,7 +103,7 @@
             "module": "lonely-mountains"
         }
     ],
-    "manifest": "https://github.com/kcits/LonelyMountains-FVVT/blob/main/module.json",
+    "manifest": "https://raw.githubusercontent.com/kcits/LonelyMountains-FVVT/main/module.json",
     "download": "https://github.com/kcits/LonelyMountains-FVVT/archive/refs/heads/main.zip",
     "id": "lonely-mountains",
     "authors": [
