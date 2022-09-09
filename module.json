@@ -1,0 +1,114 @@
+{
+    "name": "lonely-mountains",
+    "title": "Lonely Mountains",
+    "author": "Kcits",
+    "description": "Shared Module For Lonely Mountains",
+    "packs": [
+        {
+            "name": "lm-heros",
+            "label": "LM-Heros",
+            "type": "Actor",
+            "system": "dnd5e",
+            "path": "/packs/lm-heros.db",
+            "entity": "Actor",
+            "module": "lonely-mountains"
+        },
+        {
+            "name": "lm-monsters",
+            "label": "LM-Monsters",
+            "type": "Actor",
+            "system": "dnd5e",
+            "path": "/packs/lm-monsters.db",
+            "entity": "Actor",
+            "module": "lonely-mountains"
+        },
+        {
+            "name": "lm-items",
+            "label": "LM-Items",
+            "type": "Item",
+            "system": "dnd5e",
+            "path": "/packs/lm-items.db",
+            "entity": "Item",
+            "module": "lonely-mountains"
+        },
+        {
+            "name": "lm-journalentries",
+            "label": "LM-JournalEntries",
+            "type": "JournalEntry",
+            "path": "/packs/lm-journalentries.db",
+            "entity": "JournalEntry",
+            "module": "lonely-mountains"
+        },
+        {
+            "name": "lm-macros",
+            "label": "LM-Macros",
+            "type": "Macro",
+            "path": "/packs/lm-macros.db",
+            "entity": "Macro",
+            "module": "lonely-mountains"
+        },
+        {
+            "name": "lm-playlists",
+            "label": "LM-Playlists",
+            "type": "Playlist",
+            "path": "/packs/lm-playlists.db",
+            "entity": "Playlist",
+            "module": "lonely-mountains"
+        },
+        {
+            "name": "lm-rolltables",
+            "label": "LM-RollTables",
+            "type": "RollTable",
+            "path": "/packs/lm-rolltables.db",
+            "entity": "RollTable",
+            "module": "lonely-mountains"
+        },
+        {
+            "name": "lm-scenes",
+            "label": "LM-Scenes",
+            "type": "Scene",
+            "path": "/packs/lm-scenes.db",
+            "entity": "Scene",
+            "module": "lonely-mountains"
+        },
+        {
+            "name": "lm-adventures",
+            "label": "LM-Adventures",
+            "type": "Adventure",
+            "system": "dnd5e",
+            "path": "/packs/lm-adventures.db",
+            "entity": "Adventure",
+            "module": "lonely-mountains"
+        },
+        {
+            "name": "lm-cards",
+            "label": "LM-Cards",
+            "type": "Cards",
+            "path": "/packs/lm-cards.db",
+            "entity": "Cards",
+            "module": "lonely-mountains"
+        },
+        {
+            "name": "lm-npcs",
+            "label": "LM-NPCs",
+            "type": "Actor",
+            "system": "dnd5e",
+            "path": "/packs/lm-npcs.db",
+            "entity": "Actor",
+            "module": "lonely-mountains"
+        }
+    ],
+    "id": "lonely-mountains",
+    "authors": [
+        {
+            "name": "Kcits"
+        }
+    ],
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": 9,
+        "verified": 10
+    },
+    "version": "1.1"
+}
