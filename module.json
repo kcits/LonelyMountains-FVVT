@@ -7,7 +7,7 @@
         "url": "https://github.com/kcits"
       }
       ],
-    "description": "Shared Module For Lonely Mountains",
+    "description": "Shared Module For Lonely Mountains Content",
     "packs": [
         {
             "name": "lm-heros",
@@ -123,7 +123,7 @@
             "path": "languages/en.json"
         }
     ],
-    "manifest": "https://github.com/kcits/LonelyMountains-FVVT/releases/download/0.0.6/module.json",
-    "download": "https://github.com/kcits/LonelyMountains-FVVT/releases/download/0.0.6/LonelyMountains-FVVT.zip",
-    "version": "0.0.6"
+    "manifest": "https://github.com/kcits/LonelyMountains-FVVT/releases/download/0.0.7/module.json",
+    "download": "https://github.com/kcits/LonelyMountains-FVVT/releases/download/0.0.7/LonelyMountains-FVVT.zip",
+    "version": "0.0.7"
 }
