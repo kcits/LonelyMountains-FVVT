@@ -104,8 +104,6 @@
         }
     ],
     "url": "https://github.com/kcits/LonelyMountains-FVVT",
-    "manifest": "https://github.com/kcits/LonelyMountains-FVVT/releases/download/0.0.5/module.json",
-    "download": "https://github.com/kcits/LonelyMountains-FVVT/releases/download/0.0.5/LonelyMountains-FVVT.zip",
     "id": "lonely-mountains",
     "authors": [
         {
@@ -125,5 +123,7 @@
             "path": "languages/en.json"
         }
     ],
-    "version": "0.0.5"
+    "manifest": "https://github.com/kcits/LonelyMountains-FVVT/releases/download/0.0.6/module.json",
+    "download": "https://github.com/kcits/LonelyMountains-FVVT/releases/download/0.0.6/LonelyMountains-FVVT.zip",
+    "version": "0.0.6"
 }
