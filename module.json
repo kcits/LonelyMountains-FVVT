@@ -45,6 +45,14 @@
             "module": "lonely-mountains"
         },
         {
+            "name": "lm-notice-board",
+            "label": "LM-Notice Board",
+            "type": "JournalEntry",
+            "path": "/packs/lm-notice-board.db",
+            "entity": "JournalEntry",
+            "module": "lonely-mountains"
+        },
+        {
             "name": "lm-macros",
             "label": "LM-Macros",
             "type": "Macro",
@@ -124,6 +132,6 @@
         }
     ],
     "manifest": "https://github.com/kcits/LonelyMountains-FVVT/releases/latest/download/module.json",
-    "download": "https://github.com/kcits/LonelyMountains-FVVT/releases/download/0.0.14/module.zip",
-    "version": "0.0.14"
+    "download": "https://github.com/kcits/LonelyMountains-FVVT/releases/download/0.0.15/module.zip",
+    "version": "0.0.15"
 }
