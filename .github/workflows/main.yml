@@ -35,7 +35,7 @@ jobs:
     - name: Create Release
       id: create_latest_release
       uses: ncipollo/release-action@v1
-      if: endsWith(github.ref, 'master')
+      if: endsWith(github.ref, 'main')
       with:
         allowUpdates: true
         name: Latest
@@ -52,7 +52,7 @@ jobs:
       with:
         files: 'module.json'
       env:
-        manifest: https://github.com/${{github.repository}}/releases/latest/download/module.json
+        manifest: https://github.com/${{github.repository}}/releases/download/${{steps.get-version.outputs.version}}/module.json
         download: https://github.com/${{github.repository}}/releases/download/${{steps.get-version.outputs.version}}/module.zip
     
     # Create a release for this specific version
