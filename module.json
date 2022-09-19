@@ -113,11 +113,6 @@
     ],
     "url": "https://github.com/kcits/LonelyMountains-FVVT",
     "id": "lonely-mountains",
-    "authors": [
-        {
-            "name": "Kcits"
-        }
-    ],
     "minimumCoreVersion": "10",
     "compatibleCoreVersion": "10",
     "compatibility": {
@@ -133,5 +128,5 @@
     ],
     "manifest": "",
     "download": "",
-    "version": "0.1.25"
+    "version": "0.1.26"
 }
