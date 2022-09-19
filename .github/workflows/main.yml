@@ -48,12 +48,12 @@ jobs:
       if: endsWith(github.ref, 'main')
       with:
         allowUpdates: true
-        name: Latest
+        name: ${{steps.get-version.outputs.version}}
         draft: false
         prerelease: false
         token: ${{ secrets.GITHUB_TOKEN }}
         artifacts: './module.json, ./module.zip'
-        tag: latest
+        tag: ${{steps.get-version.outputs.version}}
     
     # Create a release for this specific version
     - name: Create Release
