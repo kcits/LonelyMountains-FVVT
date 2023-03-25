@@ -7,7 +7,9 @@ https://www.youtube.com/watch?v=TSGMrqjT91Q
 
 Shared Compendium Creator
 
-https://fgen-mxzf-prod.herokuapp.com/module/create
+https://fgen.lffg.org/module/create
+
+OLD - https://fgen-mxzf-prod.herokuapp.com/module/create
 
 Install URL
 
